@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Medini N B</h1>
-<h3 align="center">Deep Learning and Computer Vision enthusiast</h3>
+
 <img align = "right" width = 350 src = "https://i.pinimg.com/originals/23/39/2f/23392f448adabd395f23d9fef99bf64d.gif">
 
 - 🌱 I’m currently learning **PyTorch and C++**
