@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **PyTorch and C++**
 
+- 👩‍🎨 Check out my drawings at [my art portfolio website](https://imedusa.github.io/artworks/portfolio/) :)
+
 - 📫 You can reach me through **medininb2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
