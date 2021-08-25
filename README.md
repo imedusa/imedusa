@@ -2,7 +2,7 @@
 
 <img align = "right" width = 350 src = "https://i.pinimg.com/originals/23/39/2f/23392f448adabd395f23d9fef99bf64d.gif">
 
-- 🌱 I’m currently learning **PyTorch and C++**
+- 🌱 Trying my hands at **Web dev and C++**
 
 - 👩‍🎨 Check out my drawings at **[my art portfolio website](https://imedusa.github.io/artworks/portfolio/)** :)
 
