@@ -2,8 +2,6 @@
 
 - 👩‍🎓 I'm a Computer Science undergrad at BITS Pilani, Hyderabad
 
-- 🌱 Trying my hands at **Web dev and C++**
-
 - 👩‍🎨 Check out my drawings at **[my art portfolio website](https://imedusa.github.io/artworks/portfolio/)** :)
 
 
